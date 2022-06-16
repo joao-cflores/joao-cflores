@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 <p align="center">
   <h1 align="center">Bem vindo ao perfil de <a href="https://github.com/joao-cflores">João Flores</a>👋</h1>
 </p>
-<p align="center">
-  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"> </a>
-</p>
 <div align="center">
-<img  src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"></div>
+  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"> </a>
+</div>
+<div align="center">
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"></div>
 <ul>
   <li>👋 Oi, eu sou o João!</li>
   <li>❤️ Eu gosto muito de aprender novas coisas e sempre em busca da melhoria pessoal.</li>
