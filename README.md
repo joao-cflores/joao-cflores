@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"> </a>
 </p>
 <p></p>
-<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
+<img align="center" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
 <ul>
   <li>👋 Oi, eu sou o João!</li>
   <li>❤️ Eu gosto muito de aprender novas coisas e sempre em busca da melhoria pessoal.</li>
