@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"></div>
 <ul>
   <li>👋 Oi, eu sou o João!</li>
-  <li>❤️ Eu gosto muito de aprender novas coisas e sempre em busca da melhoria pessoal.</li>
-  <li>🌱 Atualmente tranquei a faculdade de ADM temporariamente para estudar programação e mudar de área, e por isso escolhi o progama Starter Full Stack Web Delevoper da Growdev.</li>
+  <li>❤️ Eu gosto muito de aprender novas coisas e sempre estou em busca da melhoria pessoal.</li>
+  <li>🌱 Atualmente tranquei a faculdade de ADM para estudar programação e mudar de área, e por isso escolhi o programa Starter Full Stack Web Delevoper da Growdev.</li>
   <li>💼 Sou assistente financeiro pleno.</li>
   <li>🧐 estou estudando atualmente HTML, CSS e JS</li>
 </ul>
@@ -43,7 +43,8 @@ const softskills and ProgrammingLanguage= {
   listOfProgrammingLanguages: [
     'html', 
     'css',
-    'JS', 
+    'JavaScript',
+    'Typescript'
   ],
 };
 ```
