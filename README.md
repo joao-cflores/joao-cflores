@@ -25,7 +25,7 @@ Here are some ideas to get you started:
   <li>❤️ Eu gosto muito de aprender novas coisas e sempre estou em busca da melhoria pessoal.</li>
   <li>🌱 Atualmente tranquei a faculdade de ADM para estudar programação e mudar de área, e por isso escolhi o programa Starter Full Stack Web Delevoper da Growdev.</li>
   <li>💼 Sou assistente financeiro pleno.</li>
-  <li>🧐 estou estudando atualmente HTML, CSS e JS</li>
+  <li>🧐 estou estudando atualmente HTML, CSS, JS, TYPESCRIPT E NODE.JS</li>
 </ul>
 
 <img align="right" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" />
