@@ -23,9 +23,6 @@ Here are some ideas to get you started:
 <ul>
   <li>👋 Oi, eu sou o João!</li>
   <li>❤️ Eu gosto muito de aprender novas coisas e sempre estou em busca da melhoria pessoal.</li>
-  <li>🌱 Atualmente tranquei a faculdade de ADM para estudar programação e mudar de área, e por isso escolhi o programa Starter Full Stack Web Delevoper da Growdev.</li>
-  <li>💼 Sou assistente financeiro pleno.</li>
-  <li>🧐 estou estudando atualmente HTML, CSS, JS, TYPESCRIPT E NODE.JS</li>
 </ul>
 
 <img align="right" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" />
@@ -52,10 +49,6 @@ const softskills and ProgrammingLanguage= {
 
 
 ## **Rede Sociais!**
-
-<a href="https://twitter.com/flowers1903">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />  
-</a>
 
 </a>
 <a href="https://www.instagram.com/joao_cf/">
